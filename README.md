@@ -51,7 +51,7 @@ plt.legend()
 ```
 
 ## Output:
-![best fit line](sam.png)
+![best fit line](ex1.png)
 
 
 ## Result:
